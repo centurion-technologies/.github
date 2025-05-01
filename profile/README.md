@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub organization of **Centurion Technologies (Pty) Ltd** — where innovation meets execution.
 
-We build resilient software systems, scalable platforms, and digital tools that empower industries across Africa and beyond. If you're browsing our repositories, you're looking at the foundation of our commitment to excellence, transparency, and meaningful engineering.
+We build resilient software systems and scalable fintech platforms tailored to the unique needs of Eswatini’s digital economy. Our tools are designed to empower financial access, streamline payments, and accelerate innovation within the region and beyond. If you're browsing our repositories, you're seeing the foundation of our commitment to local relevance, engineering excellence, and transparent development.
 
 ---
 
@@ -13,7 +13,6 @@ Centurion Technologies delivers high-impact solutions in:
 - **Platform Engineering**
 - **Digital Payments & Fintech**
 - **Cloud-native Infrastructure**
-- **IoT & Embedded Systems**
 - **Mobile & Web App Development**
 
 We believe in solving real-world problems with precision, security, and empathy.
@@ -38,9 +37,9 @@ We believe in solving real-world problems with precision, security, and empathy.
 
 ## 📢 Connect With Us
 
-📧 **hello@centurion-technologies.co.za**
+📧 **dev@centurionbd.com**
 
-🔗 [Website](https://centurion-technologies.co.za)  
+🔗 [Website](https://centurionbd.com)  
 🔗 [LinkedIn](https://linkedin.com/company/centurion-technologies)
 
 ---
